@@ -13,7 +13,7 @@ const Result = (props) => {
           <div className="movie-data">
             <h3 className="title">{obj.name}</h3>
             <p> Cast :{obj.description}</p>
-            <a href={obj.link}>Wath on Amazon</a>
+            <a href={obj.link}>Watch on Amazon</a>
           </div>
         </article>
       ))}
