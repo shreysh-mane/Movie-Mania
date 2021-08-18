@@ -2,7 +2,7 @@ export const data = [
   {
     horror: {
       h1: {
-        name: "Annabelle Comes Home",
+        name: "Annabelle Comes Home ",
         link:
           "https://www.amazon.com/Annabelle-Comes-Home-McKenna-Grace/dp/B07VNBVXVB/ref=sr_1_1?dchild=1&keywords=annbel&qid=1629284538&s=instant-video&sr=1-1",
         img: "https://m.media-amazon.com/images/I/81L6jWlP6IL._AC_UY218_.jpg",
